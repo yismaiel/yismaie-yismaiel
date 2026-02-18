@@ -1,4 +1,4 @@
-# yismaie-yismaiel
+# yismaiel-yismaiel
 # Yahya Ismaiel
 
 PhD Chemist → ML/Cheminformatics
